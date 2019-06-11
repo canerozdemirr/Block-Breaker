@@ -10,7 +10,9 @@ O eski Block Breaker oyununu çoğu kişi bilir. Eski bilgisayarlarımızda da s
 
 2-) Temel düzeyde Unity bilgisi gereklidir. Çünkü canvasın ne olduğu, prefab ve inspector gibi kavramların ne anlama geldiğini anlatmayacağım. Daha çok projenin algoritmasını ve nasıl çalıştığını anlatacağım. Yani bu projeyi alırken size tavsiyem Unity arayüzünü ve biraz da detayını bilmenizdir. 
 
-3-) Unity'nin 2018.2.0f sürümünü kullanarak bu projeyi yazdım. Size yine bu sürümü indirmenizi şiddetle tavsiye ediyorum. Şu an hala Unity 2018.3 sürümüne geçiş yapmadığım için o sürümde çalışıp çalışmadığını bilmiyorum. Eski sürümlerde de denemedim, 2018.1 ve 2017.3-2017.4 sürümlerinde tahmin ediyorum ki hatasız açılabilir. 
+## Projenin Sürümü
+
+Unity 2018.2.0f
 
 ## Proje Hakkında Bilgi
 
